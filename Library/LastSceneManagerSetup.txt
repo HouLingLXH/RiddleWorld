@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Isometric Pack 3d/Demo/Scene2.unity
+  isLoaded: 1
+  isActive: 1
